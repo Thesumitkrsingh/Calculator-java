@@ -1,7 +1,7 @@
 
 //A calculator
 import java.util.*;
-
+//A java  Calculator
 public class Calculator {
     public static void main(String[] args) {
         System.out.println("Choose a option ");
